@@ -636,7 +636,7 @@ button, a, summary { cursor: pointer; }
 .rsvp-dialog :focus-visible, .primary-button:focus-visible { outline: 3px solid #899ace; outline-offset: 3px; }
 
 @media (max-width: 500px) {
-  .rsvp-dialog { padding: 48px 12px 16px; }
+  .rsvp-dialog { width: 100%; padding: 48px 12px 16px; }
   .rsvp-choice-content { gap: 8px; padding: 8px; }
 }
 
