@@ -514,7 +514,6 @@ button, a, summary { cursor: pointer; }
 .dress-code-colors > div { display: grid; justify-items: center; gap: 8px; }
 .dress-code-swatch { display: block; width: 1.5cm; height: 1.5cm; border-radius: 50%; }
 .dress-code-black { background: #1c1c1c; }
-.dress-code-white { background: var(--white); }
 .dress-code-pink { background: #dbbdc6; }
 
 .rsvp {
