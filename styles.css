@@ -448,7 +448,7 @@ button, a, summary { cursor: pointer; }
 .timeline-item time {
   color: var(--sage-dark);
   font-family: var(--sans);
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 600;
   text-align: right;
 }
